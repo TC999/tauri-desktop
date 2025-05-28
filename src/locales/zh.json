@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "file": "文件",
+    "file_new_repo": "新建仓库",
+    "file_add_local_repo": "添加本地仓库",
+    "file_clone_online_repo": "克隆在线仓库",
+    "file_settings": "设置",
+    "file_exit": "退出",
+    "repo": "仓库",
+    "repo_pull": "拉取",
+    "repo_push": "推送",
+    "repo_fetch": "获取",
+    "help": "帮助",
+    "help_report_issue": "报告问题",
+    "help_about": "关于"
+  }
+}

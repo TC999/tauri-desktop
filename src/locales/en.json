@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "file": "File",
+    "file_new_repo": "New Repo",
+    "file_add_local_repo": "Add Local Repo",
+    "file_clone_online_repo": "Clone Online Repo",
+    "file_settings": "Settings",
+    "file_exit": "Exit",
+    "repo": "Repo",
+    "repo_pull": "Pull",
+    "repo_push": "Push",
+    "repo_fetch": "Fetch",
+    "help": "Help",
+    "help_report_issue": "Report Issue",
+    "help_about": "About"
+  }
+}
